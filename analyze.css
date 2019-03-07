@@ -1,0 +1,35 @@
+.title {
+  font-size: 30px;
+  text-align: center;
+  margin: 2% 0;
+}
+
+.description {
+  /* position: relative;
+  top: 10px; */
+  margin: 2% 0;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+#test_canvas {
+  max-width: 300px;
+  height: auto;
+  margin-left: 40%;
+}
+
+.picture {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.picture img {
+  border: 2px solid gray;
+}
+
+#movie {
+  text-align: center;
+}
